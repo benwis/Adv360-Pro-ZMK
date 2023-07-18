@@ -4,10 +4,10 @@
   "layout": "LAYOUT",
   "layer_names": [
     "base",
-    "Colemak MOD DH"
+    "Colemak MOD DH",
     "keypad",
     "fn",
-    "mod",
+    "mod"
   ],
   "layers": [
     [
